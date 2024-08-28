@@ -1,0 +1,21 @@
+.navbar{
+    
+    background-color: #1b3c81;
+    height: 60px;
+    color: white;
+    justify-content: center;
+  
+    
+}
+
+a{ color: beige;
+}
+
+.navbar-nav{
+    padding-left: 95px;
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
+
+   
